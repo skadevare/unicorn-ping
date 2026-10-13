@@ -1,6 +1,7 @@
 # 🦄 unicornping
 
 Works like `ping`, but every reply is a **pong!** It's rainbow colored, plays a "pong" sound for each reply, and can sweep a whole subnet.
+![Unicorn ping](https://github.com/skadevare/unicorn-ping/blob/main/example-unicornping.png)
 
 ```
 ✨ pong! from 8.8.8.8: bytes=32 time=22ms TTL=113
